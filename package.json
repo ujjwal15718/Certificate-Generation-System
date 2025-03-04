@@ -1,0 +1,22 @@
+{
+  "name": "certificates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mycertificate.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node mycertificate.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "docxtemplater": "^3.60.1",
+    "figlet": "^1.5.2",
+    "gtts": "^0.2.1",
+    "pizzip": "^3.1.8",
+    "xlsx": "^0.18.5"
+  }
+}
